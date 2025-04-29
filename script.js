@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Initialize counters
     animateValue("projects-count", 0, 1, 1);
     animateValue("incomming-count", 0, 3, 5);
-    animateValue("hours-count", 0, 55, 70);
+    animateValue("hours-count", 0, 60, 70);
     
     // Add interactive effects to cards
     const cards = document.querySelectorAll('.link-card, .feature-card');
